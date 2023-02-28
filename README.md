@@ -9,3 +9,7 @@
 
 ![alt text](https://github.com/Daniellasqw/modelagem_de_dados/blob/main/modelagem.png?raw=true)
 
+<h6>Criação do Banco e suas Entidades e Atributos</h6><br>
+
+![alt text](https://github.com/Daniellasqw/modelagem_de_dados/blob/main/create.png?raw=true)
+
